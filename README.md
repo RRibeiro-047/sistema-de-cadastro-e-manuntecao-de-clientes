@@ -1,4 +1,4 @@
-Sistema de Cadastro de Clientes
+*Sistema de Cadastro de Clientes*
 
 Python | Tkinter | Flask | SQLite
 
@@ -83,3 +83,4 @@ Demonstrar organização, lógica de programação e entendimento de sistemas co
 Observação Final
 
 Embora o projeto utilize Python, os conceitos aplicados são comuns em sistemas internos desenvolvidos com tecnologias como Delphi ou PowerBuilder.
+
